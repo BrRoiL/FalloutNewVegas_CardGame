@@ -1,0 +1,286 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FalloutNewVegas_CardGame
+</name>
+</assembly>
+<members>
+<member name="T:КурсоваяРаботаПоVB.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.CoinUp">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.fallout_3_death">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.fallout_4_end_song">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.fallout_4_xp_gain">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.fallout_new_vegas">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.fallout_shelter_caps">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Main">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Main_Theme___Fallout__New_Vegas">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Menu_Click">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Menu_Select">
+<summary>
+  Поиск локализованного ресурса типа System.IO.UnmanagedMemoryStream, аналогичного System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.table">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_10">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_7">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_8">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_9">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_joker">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_В">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_Д">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_К">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Б_Т">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_10">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_7">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_8">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_9">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_joker">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_В">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_Д">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_К">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.В_Т">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_10">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_7">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_8">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_9">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_joker">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_В">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_Д">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_К">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.К_Т">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_10">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_6">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_7">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_8">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_9">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_joker">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_В">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_Д">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_К">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Ч_Т">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:КурсоваяРаботаПоVB.My.Resources.Resources.Шапка">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
